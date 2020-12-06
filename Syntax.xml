@@ -1,0 +1,52 @@
+<?xml version = "1.0"?>
+<languages>
+ <language name = "cpp" ext = "cpp h">
+  <keyword>if</keyword>
+  <keyword>include</keyword>
+  <keyword>char</keyword>
+  <keyword>class</keyword>
+  <keyword>const</keyword>
+  <keyword>double</keyword>
+  <keyword>enum</keyword>
+  <keyword>explicit</keyword>
+  <keyword>friend</keyword>
+  <keyword>inline</keyword>
+  <keyword>int</keyword>
+  <keyword>long</keyword>
+  <keyword>namespace</keyword>
+  <keyword>operator</keyword>
+  <keyword>private</keyword>
+  <keyword>protected</keyword>
+  <keyword>public</keyword>
+  <keyword>short</keyword>
+  <keyword>signals</keyword>
+  <keyword>signed</keyword>
+  <keyword>slot</keyword>
+  <keyword>static</keyword>
+  <keyword>struct</keyword>
+  <keyword>template</keyword>
+  <keyword>typedef</keyword>
+  <keyword>typename</keyword>
+  <keyword>union</keyword>
+  <keyword>unsigned</keyword>
+  <keyword>virtual</keyword>
+  <keyword>void</keyword>
+  <keyword>volatile</keyword>
+  <keyword>include</keyword>
+  <color>#0000ff</color>
+ </language>
+ 
+ <language name = "python" ext = "py">
+  <keyword>if</keyword>
+  <keyword>for</keyword>
+  <keyword>foreach</keyword>
+  <keyword>class</keyword>
+  <keyword>list</keyword>
+  <keyword>while</keyword>
+  <keyword>raise</keyword>
+  <keyword>expect</keyword>
+  <keyword>import</keyword>
+  <color>#FF0000</color>
+ </language>
+ 
+</languages>

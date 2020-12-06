@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resourses/New.png</file>
+        <file>resourses/Open.png</file>
+        <file>resourses/Save.png</file>
+        <file>resourses/SaveAll.png</file>
+        <file>resourses/SaveAs.png</file>
+        <file>resourses/text-editor.png</file>
+    </qresource>
+</RCC>
